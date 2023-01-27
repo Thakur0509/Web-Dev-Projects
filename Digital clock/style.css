@@ -11,7 +11,7 @@ body{
 }
 
 h2{
-    text-transform: uppercase;
+    text-transform: capitalize;
     letter-spacing: 4px;
     font-size: larger;
     text-align: center;
